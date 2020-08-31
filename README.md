@@ -1,2 +1,5 @@
-# UCL_CASA_QM_NHS
-Quantitative method project, carrying out exploratory clustering on NHS data.
+# NHS data clustering
+
+**Class:** work as part of #UCL #CASA #QuantitativeMethods course.
+
+**Purpose:** exploratory clustering analysis on NHS dataset.
